@@ -1,2 +1,3 @@
 language = "python3"
+run = "starfile chatbot1"
 run = "python3 chatbot.py"
