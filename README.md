@@ -1,4 +1,4 @@
-# chatb
+# chatbot
 codigo meu.
  
 creditos ao aplicativo Aprenda Python
